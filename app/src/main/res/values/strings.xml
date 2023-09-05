@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">AndroidAplication</string>
+    <string name="tanaman_name">Nama Tanaman obat</string>
+    <string name="description">Deskripsi</string>
+    <string name="email">haidaralfarsi24@gmail.com</string>
+    <string name="about"> I am Haidar Alfarisi, a technology expert with expertise in developing Android applications and innovative web solutions. With over 2 years of experience in the industry, I have managed to combine my technical acumen with a deep understanding of the user experience, to create solutions that are not only functional, but also attractive and effective.
+    </string>
+    <string name="button">Share</string>
+    <string name="content_text">Google officially announced its much-anticipated Pixel phones; the Pixel and Pixel XL, on October 4. We attended Google’s London UK event, mirroring the main one taking place in San Francisco, US, where the firm unwrapped the new Android 7.1 Nougat devices which will apparently usurp Google’s long-standing Nexus series.</string>
+    <string name="content_specs_display">5.0 inches\n
+        FHD AMOLED at 441ppi\n
+        2.5D Corning® Gorilla® Glass 4</string>
+    <string name="content_specs_size">5.6 x 2.7 x 0.2 ~ 0.3 inches 143.8 x 69.5 x 7.3 ~ 8.5 mm</string>
+    <string name="content_specs_battery">2,770 mAh battery\n
+        Standby time (LTE): up to 19 days\n
+        Talk time (3g/WCDMA): up to 26 hours\n
+        Internet use time (Wi-Fi): up to 13 hours\n
+        Internet use time (LTE): up to 13 hours\n
+        Video playback: up to 13 hours\n
+        Audio playback (via headset): up to 110 hours\n
+        Fast charging: up to 7 hours of use from only 15 minutes of charging</string>
+    <string name="title">Google Pixel</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="dummy_value">$735</string>
+    <string name="dummy_photos">6 photos</string>
+
+    <string-array name="data_name">
+        <item>Kunyit</item>
+        <item>Jahe</item>
+        <item>Daun Sirih</item>
+        <item>Kumis Kucing</item>
+        <item>Daun Kelor</item>
+        <item>Jeruk Nipis</item>
+        <item>Lengkuas</item>
+        <item>Lidah Buaya</item>
+        <item>Temulawak</item>
+        <item>Daun Kemangi</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Kunyit merupakan satu dari macam-macam tanaman obat yang sangat populer. Kunyit termasuk jenis rimpang yang sangat mudah tumbuh. Dengan warna jingga yang menyala, kunyit punya sifat antioksidan dan anti-iflamasi. Kunyit dipercaya memiliki khasiat antikanker dan dapat mencegah mutasi DNA.
+        Selain bagus untuk memperlancar sistem perencanaan, kunyit dapat mengatur kadar kolesterol dan gula darah, serta menurunkan risiko munculnya sel kanker dan penyakit jantung.</item>
+        <item>Jahe juga sangat terkenal khasiat obatnya. Jahe kaya akan gingerol, zat dengan sifat anti-inflamasi dan antioksidan yang kuat. Jahe mengandung berbagai senyawa bermanfaat dan telah lama digunakan dalam praktik tradisional untuk mengobati pilek, mual, migrain, dan tekanan darah tinggi.
+        Mengonsumsi jahe dapat meredakan berbagai macam penyakit seperti mual, sakit kepala, serta nyeri haid. Namun, mengonsumsi jahe tidak dianjurkan lebih dari satu sendok teh per harinya.</item>
+        <item>Daun sirih sering digunakan sebagai obat herbal sejak lama. Tanaman obat satu ini memiliki sifat analgesik yang mampu meredakan nyeri akibat luka, ruam, dan masalah kulit lainnya. Daun sirih juga bermanfaat untuk membekukan luka secara cepat karena mengandung antioksidan tanin.
+        Daun sirih juga bisa menyembuhkan penyakit-penyakit lainnya seperti diare, sifilis, batuk, serta meredakan pendarahan akibat mimisan.
+        </item>
+        <item>Kumis kucing merupakan tanaman obat yang banyak dikenal khasiatnya. Tanaman ini terkenal dengan bentuk bunganya yang mirip dengan kumis kucing. Kumis kucing memiliki sifat diuretik, menghentikan kejang, mengurangi pembengkakan, dan membantu melawan bakteri.
+        Salah satunya, tanaman kumis kucing terkenal mampu menyembuhkan batu ginjal. Selain itu, penyakit-penyakit seperti asam urat, diabetes, dan penyakit ginjal lainnya. Ramuan dari daun tanaman kumis kucing ini juga bisa dijadikan penurun berat badan alami.</item>
+        <item>Jeruk nipis kaya akan vitamin C dan dipercaya mampu meningkatkan kesehatan tubuh, Ternyata, jeruk nipis juga mampu mengobati batuk, pereda demam, mengobati malaria dan anemia.
+        Tidak hanya itu, dengan mengkonsumsi air perasan jeruk nipis sistem imun tubuh dapat menjadi kuat. Tubuh pun dapat menangkal virus penyakit yang akan masuk ke dalam tubuh. Bibir pecah-pecah dan sariawan juga dapat diobati dengan jeruk nipis.</item>
+        <item>Lengkuas memiliki kandungan flavonoid, galangin, dan beta sitosterol. Kandungan-kandungan ini dipercaya memiliki khasiat bagi tubuh. Lengkuas kaya akan nutrisi seperti zat besi, vitamin A dan C, karbohidrat, serta serat.
+        Sering ditemui sebagai bumbu dapur, lengkuas mampu menjadi antioksidan untuk meredakan rasa nyeri akibat peradangan serta melawan infeksi. Tanaman ini juga dapat kamu tanam di pekarangan rumah.</item>
+        <item>Selain bermanfaat untuk kecantikan, lidah buaya juga dimanfaatkan sebagai obat herbal. Tanaman ini bisa juga kamu tanam di pekarangan rumah.
+        Meskipun memiliki segudang khasiat, pemakaian lidah buaya juga dapat menimbulkan reaksi alergi bagi sebagian orang. Apabila alergi ini muncul, pemakaian lidah buaya harus segera dihentikan.</item>
+        <item>Dipercaya bisa meningkatkan nafsu makan, temulawak merupakan bumbu dapur yang bisa dimanfaatkan untuk menyembuhkan penyakit. Temulawak bisa meningkatkan sistem pencernaan serta meredakan perut kembung atau penyakit-penyakit lambung. Temulawak seringkali ditemukan sebagai salah satu bahan baku jamu.
+        Sering ditemui sebagai bumbu dapur, lengkuas mampu menjadi antioksidan untuk meredakan rasa nyeri akibat peradangan serta melawan infeksi. Tanaman ini juga dapat kamu tanam di pekarangan rumah.</item>
+        <item>Temulawak dikenal luas sebagai penambah stamina tubuh. Temulawak bisa mendetoksifikasi tubuh, membuat tubuh terasa bugar dan segar. Temulawak bisa mengurangi gejala masuk angin, demam, batuk, dan flu. Temulawak juga digunakan untuk menambah nafsu makan.
+        Selain mengiritasi lambung, Anda mungkin juga akan merasa efek samping temulawak berupa mual atau bahkan muntah, apalagi kalau Anda juga kurang suka dengan rasanya</item>
+        <item>Daun kemangi seringkali ditemukan sebagai lalapan jika kamu makan di tempat pecel lele. Daun ini terkenal dengan aromanya sebagai penyedap makanan.
+        Selain itu, jika Anda memiliki riwayat penyakit pencernaan seperti gastritis atau tukak lambung, sebaiknya hindari mengonsumsi daun kemangi dalam jumlah yang banyak.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/kunyit</item>
+        <item>@drawable/jahe</item>
+        <item>@drawable/daunsirih</item>
+        <item>@drawable/kumiskucing</item>
+        <item>@drawable/daunkelor</item>
+        <item>@drawable/jeruknipis</item>
+        <item>@drawable/lengkuas</item>
+        <item>@drawable/lidahbuaya</item>
+        <item>@drawable/temulawak</item>
+        <item>@drawable/daunkemangi</item>
+    </integer-array>
+
+    <string-array name="data_manfaat">
+        <item>Kunyit diketahui dapat mencegah penyakit jantung karena mengandung kurkumin yang mampu meningkatkan fungsi endotelium atau lapisan pembuluh darah. Selain itu, kunyit juga memiliki sifat antioksidan dan antiinflamasi yang berperan penting dalam mencegah penyakit jantung.</item>
+        <item>mengurangi reaksi alergi, meredakan gangguan sistem pencernaan, membantu menjaga berat badan ideal, meredakan nyeri haid, menurunkan risiko penyakit Alzheimer, dan lain sebagainya.</item>
+        <item>bisa memperoleh manfaat air rebusan daun sirih dengan menggunakannya sebagai obat berkumur. Berkumur dengan air rebusan daun sirih berpotensi menghambat bakteri mulut serta zat asam yang dapat menyebabkan gigi berlubang.</item>
+        <item>Manfaat air rebusan daun kumis kucing sangat baik untuk menujang kesehatan manusia. Mampu menjaga kesehatan ginjal, tekanan darah, gula darah, atasi alergi, kewanitaan, dan masih banyak lagi lainnya.</item>
+        <item>Apa manfaat minum air rebusan daun kelor?
+Manfaat rebusan daun kelor disebut bisa menurunkan kadar asam urat. Ini karena daun kelor mengandung flavonoid, tanin, dan alkaloid. Selain itu, daun kelor yang punya sifat anti-inflamasi juga dipercaya memberi manfaat untuk mengatasi pegal linu, nyeri, sampai rematik.</item>
+        <item>Mengonsumsi air jeruk nipis dengan air hangat dipercaya mampu melancarkan pencernaan dan merangsang serta mengaktifkan seluruh proses pencernaan. Selain melancarkan BAB, air jeruk nipis hangat juga bagus untuk menyingkirkan sembelit dan masalah gastro lain.</item>
+        <item>Lengkuas mengandung senyawa-senyawa aktif yang memiliki sifat antiinflamasi, antiseptik, dan ekspektoran. Senyawa-senyawa ini dapat membantu mengurangi peradangan di saluran pernapasan, membersihkan lendir, dan meredakan batuk.</item>
+        <item>Selain itu, ada pula kandungan vitamin A, B12, C, dan E yang mampu memberikan berbagai manfaat ke kulit. Tak ayal, jika kamu menggunakan masker lidah buaya ini dengan rutin. Hasilnya dapat mencerahkan dan membuat kulit glowing putih berseri.</item>
+        <item>Temulawak (Curcuma zanthorrhiza) adalah tanaman herbal asli Indonesia yang kerap dimanfaatkan untuk mengobati berbagai masalah kesehatan, mulai dari kurang nafsu makan, gangguan lambung, sembelit, diare, demam, radang sendi, hingga gangguan fungsi hati. Tanaman ini masih kerabat dekat dengan kunyit.</item>
+        <item>Sifat anti-inflamasi tersebut juga membantu menurunkan risiko terjadinya peradangan, seperti radang sendi, penyakit jantung, hingga radang usus. Tak berhenti sampai di situ, mengonsumsi daun kemangi juga bisa meredakan demam, sakit kepala, sakit tenggorokan, pilek, dan batuk.</item>
+        <item></item>
+    </string-array>
+</resources>
